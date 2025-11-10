@@ -1,0 +1,27 @@
+body{
+    background-color: purple;
+}
+
+p{
+    font-family: monospace;
+    text-align: center;
+    color: lightpink;
+}
+
+h1,h2,h3,h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    font-style: italic;
+    color: lightyellow;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150px;
+    font-style: normal;
+    color: white;
+}
+
+h2{
+    color: black;
+}
