@@ -18,6 +18,7 @@
 /* designating a % for width for an image allows a rescale when web brower moves */
 
  .cake-poster-item {
+
     display: flex; 
     flex-wrap: wrap;
     width: 40%;   
@@ -45,4 +46,5 @@
  .disclaimer {   
     padding: 5px;
     text-align: center;
+    color: white;
 } 
