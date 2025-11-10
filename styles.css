@@ -48,5 +48,16 @@ li{
 }
 
 .fave{
+    color: greenyellow;
+}
+.bad{
     color: orangered;
+}
+
+.pizza{
+    width: 50%;
+}
+
+a{
+    color: white;
 }
